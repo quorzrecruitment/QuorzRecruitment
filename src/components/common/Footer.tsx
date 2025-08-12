@@ -1,14 +1,14 @@
-import { cn } from "@/lib/utils";
-import Link from "next/link";
+// import { cn } from "@/lib/utils";
+// import Link from "next/link";
 import {
-  Facebook,
-  Instagram,
-  Linkedin,
-  Twitter,
+  // Facebook,
+  // Instagram,
+  // Linkedin,
+  // Twitter,
   MapPin,
-  Youtube,
+  // Youtube,
 } from "lucide-react";
-import { FaTiktok, FaPinterestP } from "react-icons/fa";
+// import { FaTiktok, FaPinterestP } from "react-icons/fa";
 import { useTranslations } from "next-intl";
 
 const Footer = () => {
@@ -28,43 +28,43 @@ const Footer = () => {
     },
   ];
 
-  const socialLinks = [
-    {
-      icon: Linkedin,
-      href: "https://www.linkedin.com/company/recruitment4u",
-      label: "LinkedIn",
-    },
-    {
-      icon: Facebook,
-      href: "https://www.facebook.com/recruitforu/",
-      label: "Facebook",
-    },
-    {
-      icon: Instagram,
-      href: "https://www.instagram.com/recruitforu25/",
-      label: "Instagram",
-    },
-    {
-      icon: Twitter,
-      href: "https://x.com/Recruitment4you",
-      label: "X (Twitter)",
-    },
-    {
-      icon: Youtube,
-      href: "https://www.youtube.com/@recruitforu",
-      label: "YouTube",
-    },
-    {
-      icon: FaTiktok,
-      href: "https://www.tiktok.com/@recruitforu",
-      label: "TikTok",
-    },
-    {
-      icon: FaPinterestP,
-      href: "https://www.pinterest.com/recruitment4u/",
-      label: "Pinterest",
-    },
-  ];
+  // const socialLinks = [
+  //   {
+  //     icon: Linkedin,
+  //     href: "https://www.linkedin.com/company/recruitment4u",
+  //     label: "LinkedIn",
+  //   },
+  //   {
+  //     icon: Facebook,
+  //     href: "https://www.facebook.com/recruitforu/",
+  //     label: "Facebook",
+  //   },
+  //   {
+  //     icon: Instagram,
+  //     href: "https://www.instagram.com/recruitforu25/",
+  //     label: "Instagram",
+  //   },
+  //   {
+  //     icon: Twitter,
+  //     href: "https://x.com/Recruitment4you",
+  //     label: "X (Twitter)",
+  //   },
+  //   {
+  //     icon: Youtube,
+  //     href: "https://www.youtube.com/@recruitforu",
+  //     label: "YouTube",
+  //   },
+  //   {
+  //     icon: FaTiktok,
+  //     href: "https://www.tiktok.com/@recruitforu",
+  //     label: "TikTok",
+  //   },
+  //   {
+  //     icon: FaPinterestP,
+  //     href: "https://www.pinterest.com/recruitment4u/",
+  //     label: "Pinterest",
+  //   },
+  // ];
 
   return (
     <footer className="bg-primary/5 py-8 sm:py-12 lg:py-16">
@@ -87,7 +87,7 @@ const Footer = () => {
                 </div>
               </div>
               {/* Social Icons */}
-              <div className="flex flex-wrap gap-4 pt-4 md:pt-6">
+              {/* <div className="flex flex-wrap gap-4 pt-4 md:pt-6">
                 {socialLinks.map((social, index) => (
                   <Link
                     key={index}
@@ -110,7 +110,7 @@ const Footer = () => {
                     />
                   </Link>
                 ))}
-              </div>
+              </div> */}
             </div>
           </div>
 
