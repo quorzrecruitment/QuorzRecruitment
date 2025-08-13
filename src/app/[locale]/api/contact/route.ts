@@ -24,7 +24,7 @@ export async function POST(req: Request) {
     });
 
     const mailOptions = {
-      from: `Recruitment 4U <${email}>`,
+      from: `Quorzrecruitment<${email}>`,
       to: "quorz.recruitment@gmail.com",
       subject: `${name}`,
       html: `
@@ -33,7 +33,7 @@ export async function POST(req: Request) {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Recruitment 4U</title>
+    <title>Quorzrecruitment</title>
     <style>
         body {
             font-family: 'Arial', sans-serif;
