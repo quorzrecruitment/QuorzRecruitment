@@ -3,9 +3,9 @@
 import { useState } from "react";
 import {
   Mail,
-  Phone,
+  // Phone,
   MapPin,
-  MessageCirclePlus,
+  // MessageCirclePlus,
   PhoneCall,
 } from "lucide-react";
 import { motion } from "framer-motion";
@@ -81,13 +81,13 @@ export const ContactForm = () => {
               <h5 className="text-2xl sm:text-3xl font-bold text-black">
                 {t1("letscontact")}
               </h5>
-              <div className="mt-6 sm:mt-8 space-y-4">
+              {/* <div className="mt-6 sm:mt-8 space-y-4">
                 <ContactCard
                   label="Mobile"
                   text="+40 730982342"
                   icon={<Phone className="w-10 h-10 text-primary" />}
                 />
-              </div>
+              </div> */}
               <div className="mt-6 sm:mt-8 space-y-4">
                 <ContactCard
                   label="Office Phone"
@@ -95,7 +95,7 @@ export const ContactForm = () => {
                   icon={<PhoneCall className="w-10 h-10 text-primary" />}
                 />
               </div>
-              <div className="mt-6 sm:mt-8 space-y-4">
+              {/* <div className="mt-6 sm:mt-8 space-y-4">
                 <ContactCard
                   label="Whats App"
                   text="+40 730982342"
@@ -103,11 +103,11 @@ export const ContactForm = () => {
                     <MessageCirclePlus className="w-10 h-10 text-primary" />
                   }
                 />
-              </div>
+              </div> */}
               <div className="mt-6 sm:mt-8 space-y-4">
                 <ContactCard
                   label="E-mail"
-                  text="HRhub@Recruitment4u.co"
+                  text="quorz.recruitment@gmail.com"
                   icon={<Mail className="w-10 h-10 text-primary" />}
                 />
               </div>
