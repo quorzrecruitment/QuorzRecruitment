@@ -54,7 +54,7 @@
     "title": "Modernae Methodi ad Redintegrandam Veterem Claritatem Negotiationis Agentialis",
     "accordionItems1": {
       "accordiontitle": "Inveni optimos candidatos.",
-      "contentdec": "Quorzrecruitment iuvat societates impedimenta geographica vincere—ut optimum hominem in toto orbe conducas, non solum optimum prope te."
+      "contentdec": "Quorz Recruitment iuvat societates impedimenta geographica vincere—ut optimum hominem in toto orbe conducas, non solum optimum prope te."
     },
     "accordionItems2": {
       "accordiontitle": "Automatiza negotii processus.",
@@ -178,18 +178,18 @@
     },
     "service2": {
       "title": "CONSUITURA ET OPUS METALLICUM",
-      "desc": "Quorzrecruitment sola est agentura in UK quae probationes in patriis per se administrat et exitus cum sociis communicat. Omnes processus consuiturae et certificationes operariorum tegimus."
+      "desc": "Quorz Recruitment sola est agentura in UK quae probationes in patriis per se administrat et exitus cum sociis communicat. Omnes processus consuiturae et certificationes operariorum tegimus."
     },
     "service3": {
-      "title": "Quorzrecruitment AGRO",
-      "desc": "Quorzrecruitment Agro est consilium ad necessitates primae industriae pertinentes. Agricolae, pecuarii et cibus industriae operarii conducuntur."
+      "title": "Quorz Recruitment AGRO",
+      "desc": "Quorz Recruitment Agro est consilium ad necessitates primae industriae pertinentes. Agricolae, pecuarii et cibus industriae operarii conducuntur."
     },
     "service4": {
       "title": "PROGRAMMA HOSPITALITATIS",
       "desc": "Specialiter ordinatum systema pro delectu operariorum in hospitalitate et turismis. Hospites cum operariis coniungimus per societates varias."
     },
     "service5": {
-      "title": "Quorzrecruitment CONSTRUCT",
+      "title": "Quorz Recruitment CONSTRUCT",
       "desc": "Aedificatio maximum opus externorum requirit, sed difficultatem habet in inquisitione. Projectum ad operarios idoneos inveniendos."
     },
     "service6": {
@@ -200,7 +200,7 @@
       "title": "Quaestiones Frequentes",
       "faq1": {
         "qus": "Ex quibus nationibus conducitis operarios?",
-        "ans": "Quorzrecruitment specialiter in operariis ex Nepal, Philippinis, et India introducendis operatur."
+        "ans": "Quorz Recruitment specialiter in operariis ex Nepal, Philippinis, et India introducendis operatur."
       },
       "faq2": {
         "qus": "Quamdiu durat processus?",
@@ -358,7 +358,7 @@
     },
     "article2": {
       "title": "Via ad tempus et pecuniam servandam",
-      "pera": "Quorzrecruitment omnes munera administrativa, legalia et oeconomica assumit, tempus tibi et conductis tuis servans."
+      "pera": "Quorz Recruitment omnes munera administrativa, legalia et oeconomica assumit, tempus tibi et conductis tuis servans."
     },
     "article3": {
       "title": "Amplissima candidate database",
@@ -523,7 +523,7 @@
           ]
         },
         "title6": "Cur Adiunctus Nobis?",
-        "desc5": "Apud Quorzrecruitment credimus homines esse cor omnis negotii magni, atque ita ratio quae eos introducit. Iunges turmæ vibrantis et futuri perspective cujus ideae aestimantur, auctus sustinetur, et opus tuum impactum visibile facit.",
+        "desc5": "Apud Quorz Recruitment credimus homines esse cor omnis negotii magni, atque ita ratio quae eos introducit. Iunges turmæ vibrantis et futuri perspective cujus ideae aestimantur, auctus sustinetur, et opus tuum impactum visibile facit.",
         "desc6": "Haec est occasio tua condere futurum modum conductionis non solum hodie, sed pro quod futurum est.",
         "btnApply": "Adhibe. Illustra. Succede"
       },
@@ -1235,13 +1235,13 @@
   },
   "contactus": {
     "text": "CONTACTUS",
-    "title": "Quorzrecruitment hic est pro te et omnibus quaestionibus tuis — tam pro societatibus quam pro quaerentibus opus.",
+    "title": "Quorz Recruitment hic est pro te et omnibus quaestionibus tuis — tam pro societatibus quam pro quaerentibus opus.",
     "btnText": "Officia",
     "letscontact": "Connectamur"
   },
   "footer": {
     "title": "De Nobis",
-    "desc": "Quorzrecruitment adnotationem habet ad mediationem laboris et operariorum ad tempus conductorum.",
+    "desc": "Quorz Recruitment adnotationem habet ad mediationem laboris et operariorum ad tempus conductorum.",
     "title2": "Praesentia Nostra Globalis",
     "location1": {
       "title": "Romania",
@@ -1255,6 +1255,6 @@
       "title": "Qataria",
       "desc": "Centrum Negotii Globalis, Via Cornish, Doha, Qataria"
     },
-    "copyright": "Copyright © 2025 Quorzrecruitment. Omnia iura reservata."
+    "copyright": "Copyright © 2025 Quorz Recruitment. Omnia iura reservata."
   }
 }

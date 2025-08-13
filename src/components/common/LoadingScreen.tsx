@@ -6,7 +6,7 @@ import Image from "next/image";
 
 const LoadingScreen = () => {
   return (
-    <motion.div 
+    <motion.div
       className={cn(
         "fixed inset-0 z-[999]",
         "flex items-center justify-center",
@@ -16,9 +16,10 @@ const LoadingScreen = () => {
       initial={{ opacity: 0 }}
       animate={{ opacity: 1 }}
       exit={{ opacity: 0 }}
-      transition={{ duration: 0.3, ease: "easeInOut" }}
-    >
-      <div className="relative flex items-center justify-center max-w-[90vw] mx-auto"> {/* Added max width constraint */}
+      transition={{ duration: 0.3, ease: "easeInOut" }}>
+      <div className="relative flex items-center justify-center max-w-[90vw] mx-auto">
+        {" "}
+        {/* Added max width constraint */}
         <motion.div
           initial={{ scale: 0.5, opacity: 0 }}
           animate={{ scale: 1, opacity: 1 }}
@@ -28,32 +29,30 @@ const LoadingScreen = () => {
             "relative",
             "w-32 h-32 sm:w-40 sm:h-40 md:w-48 md:h-48", // Reduced base sizes
             "flex items-center justify-center"
-          )}
-        >
+          )}>
           {/* Logo Image Container */}
-          <motion.div 
+          <motion.div
             className="absolute inset-0 flex items-center justify-center"
             initial={{ opacity: 0, scale: 0.8 }}
-            animate={{ 
+            animate={{
               opacity: [0, 1, 0.6, 1],
-              scale: [0.8, 1, 0.95, 1]
+              scale: [0.8, 1, 0.95, 1],
             }}
             transition={{
               duration: 2,
               repeat: Infinity,
               ease: "easeInOut",
-              times: [0, 0.4, 0.7, 1]
-            }}
-          >
+              times: [0, 0.4, 0.7, 1],
+            }}>
             <div className="relative flex items-center justify-center w-full h-full">
               <Image
-                src="/logo/Recruitment4u-single.svg"
+                src="/logo/Recruitment4u-single.jpeg"
                 alt="Recruitment4u Logo"
                 width={140}
                 height={140}
                 className={cn(
                   "object-contain",
-                  "w-24 h-24 sm:w-32 sm:h-32 md:w-48 md:h-48" 
+                  "w-24 h-24 sm:w-32 sm:h-32 md:w-48 md:h-48"
                 )}
                 priority
               />

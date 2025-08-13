@@ -55,7 +55,7 @@
     "title": "Moderne metode za vraćanje nekadašnjeg sjaja poslovanja agencije",
     "accordionItems1": {
       "accordiontitle": "Pronađite najbolje kandidate.",
-      "contentdec": "Quorzrecruitment specijaliziran je za pomoć tvrtkama da se oslobode nepotrebnih geografskih ograničenja – tako da možete zaposliti najbolju osobu na svijetu, a ne samo najbolju u blizini."
+      "contentdec": "Quorz Recruitment specijaliziran je za pomoć tvrtkama da se oslobode nepotrebnih geografskih ograničenja – tako da možete zaposliti najbolju osobu na svijetu, a ne samo najbolju u blizini."
     },
     "accordionItems2": {
       "accordiontitle": "Automatizirajte poslovne procese.",
@@ -182,19 +182,19 @@
     },
     "service2": {
       "title": "ZAVARIVANJE I OBRADA METALA",
-      "desc": "Quorzrecruitment je jedina agencija u Ujedinjenom Kraljevstvu koja samostalno provodi testiranja u matičnim zemljama i dijeli rezultate s zainteresiranim partnerima. Kao agencija ili izvođač, pokrivamo sve procese zavarivanja i kvalifikacije radnika."
+      "desc": "Quorz Recruitment je jedina agencija u Ujedinjenom Kraljevstvu koja samostalno provodi testiranja u matičnim zemljama i dijeli rezultate s zainteresiranim partnerima. Kao agencija ili izvođač, pokrivamo sve procese zavarivanja i kvalifikacije radnika."
     },
     "service3": {
-      "title": "Quorzrecruitment AGRO",
-      "desc": "Quorzrecruitment Agro je projekt usmjeren na zadovoljavanje potreba primarnog sektora gospodarstva. Regrutiramo radnike za domaće gospodarstvenike u poljoprivredi, stočarstvu i prehrambenoj industriji."
+      "title": "Quorz Recruitment AGRO",
+      "desc": "Quorz Recruitment Agro je projekt usmjeren na zadovoljavanje potreba primarnog sektora gospodarstva. Regrutiramo radnike za domaće gospodarstvenike u poljoprivredi, stočarstvu i prehrambenoj industriji."
     },
     "service4": {
       "title": "PROGRAM UGOSTITELJSTVA",
       "desc": "Program ugostiteljstva je posebno organiziran sustav za regrutaciju i selekciju osoblja za rad u uslužnim djelatnostima i turizmu. Povezujemo hotelijere s radnicima u suradnji s brojnim ugostiteljskim udrugama."
     },
     "service5": {
-      "title": "Quorzrecruitment CONSTRUCT",
-      "desc": "Građevinarstvo je sektor s najvećom potražnjom za stranim radnicima, ali također predstavlja najveći izazov u pronalaženju adekvatne radne snage. Quorzrecruitment Construct je projekt usmjeren na pronalaženje kvalificirane radne snage za ovaj sektor."
+      "title": "Quorz Recruitment CONSTRUCT",
+      "desc": "Građevinarstvo je sektor s najvećom potražnjom za stranim radnicima, ali također predstavlja najveći izazov u pronalaženju adekvatne radne snage. Quorz Recruitment Construct je projekt usmjeren na pronalaženje kvalificirane radne snage za ovaj sektor."
     },
     "service6": {
       "title": "PRILAGOĐENA REGRUTACIJA",
@@ -204,7 +204,7 @@
       "title": "Često postavljana pitanja",
       "faq1": {
         "qus": "Iz kojih zemalja zapošljavate radnike?",
-        "ans": "Slijedeći modele korištene u razvijenim bliskoistočnim zemljama, Quorzrecruitment se specijalizirao za uvoz radnika iz Nepala, Filipina i Indije."
+        "ans": "Slijedeći modele korištene u razvijenim bliskoistočnim zemljama, Quorz Recruitment se specijalizirao za uvoz radnika iz Nepala, Filipina i Indije."
       },
       "faq2": {
         "qus": "Koliko traje proces zapošljavanja stranih radnika?",
@@ -364,7 +364,7 @@
     },
     "article2": {
       "title": "Način za uštedu vremena i novca",
-      "pera": "Quorzrecruitment preuzima sve administrativne, pravne i financijske obveze, štedeći vrijeme za vas i vaše zaposlenike."
+      "pera": "Quorz Recruitment preuzima sve administrativne, pravne i financijske obveze, štedeći vrijeme za vas i vaše zaposlenike."
     },
     "article3": {
       "title": "Ogromna baza kandidata",
@@ -1238,13 +1238,13 @@
 
   "contactus": {
     "text": "KONTAKT",
-    "title": "Quorzrecruitment je ovdje za vas i vaša pitanja — kako za tvrtke tako i za tražitelje posla.",
+    "title": "Quorz Recruitment je ovdje za vas i vaša pitanja — kako za tvrtke tako i za tražitelje posla.",
     "btnText": "Uredi",
     "letscontact": "Povežimo se"
   },
   "footer": {
     "title": "O Nama",
-    "desc": "Quorzrecruitment je registriran za aktivnosti vezane uz posredovanje pri zapošljavanju i privremeno zapošljavanje radnika.",
+    "desc": "Quorz Recruitment je registriran za aktivnosti vezane uz posredovanje pri zapošljavanju i privremeno zapošljavanje radnika.",
     "title2": "Naša Globalna Prisutnost",
     "location1": {
       "title": "Rumunjska",
@@ -1258,6 +1258,6 @@
       "title": "Katar",
       "desc": "Global Business Center, Corniche Road, Doha, Katar"
     },
-    "copyright": "Autorska prava © 2025 Quorzrecruitment. Sva prava pridržana."
+    "copyright": "Autorska prava © 2025 Quorz Recruitment. Sva prava pridržana."
   }
 }
