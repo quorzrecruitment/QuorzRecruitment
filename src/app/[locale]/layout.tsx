@@ -6,8 +6,8 @@ import { routing } from "@/i18n/routing";
 import NotFound from "@/components/common/NotFound";
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://www.recruitment4u.co/"),
-  title: "Recruitment-4u - Agency for Employment",
+  metadataBase: new URL("https://www.quorzrecruitment.com/"),
+  title: "Quorzrecruitment - Agency for Employment",
   description: "We connect the right workers with the right employers.",
   keywords:
     "job, jobs, work, employment, employer, employee, career, hiring, recruitment, recruitment agency, job hunting, job search, job board, job site, job listing, job application, job vacancy, job opening, job opportunity, job offer ",
@@ -39,9 +39,9 @@ export const metadata: Metadata = {
     type: "website",
     locale: "en_US",
     url: "/",
-    title: "Recruitment-4u - Agency for Employment",
+    title: "Quorzrecruitment - Agency for Employment",
     description: "We connect the right workers with the right employers.",
-    siteName: "Recruitment-4u",
+    siteName: "Quorzrecruitment",
     images: [
       {
         url: "/logo/Recruitment4u-single2.svg",
@@ -54,7 +54,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Recruitment-4u- Agency for Employment",
+    title: "Quorzrecruitment- Agency for Employment",
     description: "We connect the right workers with the right employers.",
     images: [
       {
