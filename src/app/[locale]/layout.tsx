@@ -14,23 +14,23 @@ export const metadata: Metadata = {
   icons: {
     icon: [
       {
-        url: "/logo/Recruitment4u-single2.svg",
+        url: "/logo/favicon.ico",
         type: "image/svg+xml",
         sizes: "48x48",
       },
       {
-        url: "/logo/Recruitment4u-single2.svg",
+        url: "/logo/favicon.ico",
         type: "image/svg+xml",
         sizes: "96x96",
       },
     ],
     shortcut: {
-      url: "/logo/Recruitment4u-single2.svg",
+      url: "/logo/favicon.ico",
       type: "image/svg+xml",
       sizes: "196x196",
     },
     apple: {
-      url: "/logo/Recruitment4u-single2.svg",
+      url: "/logo/favicon.ico",
       type: "image/svg+xml",
       sizes: "180x180",
     },

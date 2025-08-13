@@ -6,7 +6,7 @@ import {
   // Phone,
   MapPin,
   // MessageCirclePlus,
-  PhoneCall,
+  // PhoneCall,
 } from "lucide-react";
 import { motion } from "framer-motion";
 import ContactCard from "@/components/common/ContactCard";
@@ -88,13 +88,13 @@ export const ContactForm = () => {
                   icon={<Phone className="w-10 h-10 text-primary" />}
                 />
               </div> */}
-              <div className="mt-6 sm:mt-8 space-y-4">
+              {/* <div className="mt-6 sm:mt-8 space-y-4">
                 <ContactCard
                   label="Office Phone"
                   text="+40 730982342"
                   icon={<PhoneCall className="w-10 h-10 text-primary" />}
                 />
-              </div>
+              </div> */}
               {/* <div className="mt-6 sm:mt-8 space-y-4">
                 <ContactCard
                   label="Whats App"
