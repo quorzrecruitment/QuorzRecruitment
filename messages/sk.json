@@ -56,7 +56,7 @@
     "title": "Moderné metódy na obnovenie bývalej slávy agentúrneho podnikania",
     "accordionItems1": {
       "accordiontitle": "Nájdite najlepších kandidátov.",
-      "contentdec": "Recruitment4u sa špecializuje na pomoc firmám oslobodiť sa od nepotrebných geografických obmedzení – takže môžete zamestnať najlepšiu osobu na svete, nielen najlepšiu v blízkosti."
+      "contentdec": "Quorzrecruitment sa špecializuje na pomoc firmám oslobodiť sa od nepotrebných geografických obmedzení – takže môžete zamestnať najlepšiu osobu na svete, nielen najlepšiu v blízkosti."
     },
     "accordionItems2": {
       "accordiontitle": "Automatizujte obchodné procesy.",
@@ -183,19 +183,19 @@
     },
     "service2": {
       "title": "ZVÁRANIE A KOVOSPRACOVANIE",
-      "desc": "Recruitment4u je jediná agentúra v Spojenom kráľovstve, ktorá samostatne vykonáva testovanie v domovských krajinách a zdieľa výsledky so zainteresovanými partnermi. Ako agentúra alebo dodávateľ pokrývame všetky procesy zvárania a kvalifikácie pracovníkov."
+      "desc": "Quorzrecruitment je jediná agentúra v Spojenom kráľovstve, ktorá samostatne vykonáva testovanie v domovských krajinách a zdieľa výsledky so zainteresovanými partnermi. Ako agentúra alebo dodávateľ pokrývame všetky procesy zvárania a kvalifikácie pracovníkov."
     },
     "service3": {
-      "title": "Recruitment4u AGRO",
-      "desc": "Recruitment4u Agro je projekt zameraný na uspokojenie potrieb primárneho sektora hospodárstva. Regrutujeme pracovníkov pre domácich podnikateľov v poľnohospodárstve, živočíšnej výrobe a potravinárskom priemysle."
+      "title": "Quorzrecruitment AGRO",
+      "desc": "Quorzrecruitment Agro je projekt zameraný na uspokojenie potrieb primárneho sektora hospodárstva. Regrutujeme pracovníkov pre domácich podnikateľov v poľnohospodárstve, živočíšnej výrobe a potravinárskom priemysle."
     },
     "service4": {
       "title": "PROGRAM PRE GASTRONÓMIU",
       "desc": "Program pre gastronómiu je špeciálne organizovaný systém na nábor a výber pracovníkov do služieb a cestovného ruchu. Spájame hotelierov s pracovníkmi v spolupráci s rôznymi gastronomickými združeniami."
     },
     "service5": {
-      "title": "Recruitment4u CONSTRUCT",
-      "desc": "Stavebníctvo je sektor s najvyšším dopytom po zahraničných pracovníkoch, ale zároveň najnáročnejší na nájdenie vhodnej pracovnej sily. Recruitment4u Construct je projekt zameraný na nábor kvalifikovaných pracovníkov pre tento sektor."
+      "title": "Quorzrecruitment CONSTRUCT",
+      "desc": "Stavebníctvo je sektor s najvyšším dopytom po zahraničných pracovníkoch, ale zároveň najnáročnejší na nájdenie vhodnej pracovnej sily. Quorzrecruitment Construct je projekt zameraný na nábor kvalifikovaných pracovníkov pre tento sektor."
     },
     "service6": {
       "title": "PRISPÔSOBENÝ NÁBOR",
@@ -205,7 +205,7 @@
       "title": "Často kladené otázky",
       "faq1": {
         "qus": "Z ktorých krajín prijímate pracovníkov?",
-        "ans": "Podľa modelu používaného v rozvinutých krajinách Blízkeho východu sa Recruitment4u špecializuje na dovoz pracovníkov z Nepálu, Filipín a Indie."
+        "ans": "Podľa modelu používaného v rozvinutých krajinách Blízkeho východu sa Quorzrecruitment špecializuje na dovoz pracovníkov z Nepálu, Filipín a Indie."
       },
       "faq2": {
         "qus": "Ako dlho trvá proces prijímania zahraničných pracovníkov?",
@@ -365,7 +365,7 @@
     },
     "article2": {
       "title": "Spôsob, ako ušetriť čas a peniaze",
-      "pera": "recruitment4U preberá všetky administratívne, právne a finančné povinnosti, čím šetrí čas vám a vašim zamestnancom."
+      "pera": "Quorzrecruitment preberá všetky administratívne, právne a finančné povinnosti, čím šetrí čas vám a vašim zamestnancom."
     },
     "article3": {
       "title": "Obrovská databáza kandidátov",
@@ -1236,13 +1236,13 @@
 
   "contactus": {
     "text": "KONTAKT",
-    "title": "Recruitment4u je tu pre vás a vaše otázky — pre firmy aj uchádzačov o zamestnanie.",
+    "title": "Quorzrecruitment je tu pre vás a vaše otázky — pre firmy aj uchádzačov o zamestnanie.",
     "btnText": "Kancelárie",
     "letscontact": "Spojme sa"
   },
   "footer": {
     "title": "O Nás",
-    "desc": "Recruitment4u je registrovaná na činnosti spojené so sprostredkovaním zamestnania a dočasným zamestnávaním pracovníkov.",
+    "desc": "Quorzrecruitment je registrovaná na činnosti spojené so sprostredkovaním zamestnania a dočasným zamestnávaním pracovníkov.",
     "title2": "Naša Globálna Prítomnosť",
     "location1": {
       "title": "Rumunsko",
@@ -1256,6 +1256,6 @@
       "title": "Katar",
       "desc": "Global Business Center, Corniche Road, Dauha, Katar"
     },
-    "copyright": "Copyright © 2025 Recruitment4u. Všetky práva vyhradené."
+    "copyright": "Copyright © 2025 Quorzrecruitment. Všetky práva vyhradené."
   }
 }

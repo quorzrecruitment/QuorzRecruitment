@@ -56,7 +56,7 @@
     "title": "Модерне методе за враћање некадашњег сјаја пословања агенције",
     "accordionItems1": {
       "accordiontitle": "Пронађите најбоље кандидате.",
-      "contentdec": "Recruitment4u је специјализован за помоћ компанијама да се ослободе непотребних географских ограничења – тако да можете запослити најбољу особу на свету, а не само најбољу у близини."
+      "contentdec": "Quorzrecruitment је специјализован за помоћ компанијама да се ослободе непотребних географских ограничења – тако да можете запослити најбољу особу на свету, а не само најбољу у близини."
     },
     "accordionItems2": {
       "accordiontitle": "Аутоматизујте пословне процесе.",
@@ -183,19 +183,19 @@
     },
     "service2": {
       "title": "ZAVARIVANJE I METALOPRERADA",
-      "desc": "Recruitment4u je jedina agencija u UK koja samostalno sprovodi testiranja u matičnim zemljama i rezultate deli sa zainteresovanim partnerima. Kao agencija ili izvođač, pokrivamo sve procese zavarivanja i kvalifikacije radnika."
+      "desc": "Quorzrecruitment je jedina agencija u UK koja samostalno sprovodi testiranja u matičnim zemljama i rezultate deli sa zainteresovanim partnerima. Kao agencija ili izvođač, pokrivamo sve procese zavarivanja i kvalifikacije radnika."
     },
     "service3": {
-      "title": "Recruitment4u AGRO",
-      "desc": "Recruitment4u Agro je projekat usmeren na zadovoljenje potreba primarnog sektora privrede. Regrutujemo radnike za domaće privrednike u poljoprivredi, stočarstvu i prehrambenoj industriji."
+      "title": "Quorzrecruitment AGRO",
+      "desc": "Quorzrecruitment Agro je projekat usmeren na zadovoljenje potreba primarnog sektora privrede. Regrutujemo radnike za domaće privrednike u poljoprivredi, stočarstvu i prehrambenoj industriji."
     },
     "service4": {
       "title": "UGOSTITELJSKI PROGRAM",
       "desc": "Ugostiteljski program je posebno organizovan sistem za regrutaciju i selekciju osoblja za rad u uslužnim delatnostima i turizmu. Povezujemo hotelijere sa radnicima u saradnji sa brojnim ugostiteljskim udruženjima."
     },
     "service5": {
-      "title": "Recruitment4u CONSTRUCT",
-      "desc": "Građevinarstvo je sektor sa najvećom potražnjom za stranim radnicima, ali i najvećim izazovima pri pronalaženju adekvatne radne snage. Recruitment4u Construct je projekat usmeren na pronalaženje kvalifikovane radne snage za ovaj sektor."
+      "title": "Quorzrecruitment CONSTRUCT",
+      "desc": "Građevinarstvo je sektor sa najvećom potražnjom za stranim radnicima, ali i najvećim izazovima pri pronalaženju adekvatne radne snage. Quorzrecruitment Construct je projekat usmeren na pronalaženje kvalifikovane radne snage za ovaj sektor."
     },
     "service6": {
       "title": "PRILAGOĐENA REGRUTACIJA",
@@ -205,7 +205,7 @@
       "title": "Često postavljana pitanja",
       "faq1": {
         "qus": "Iz kojih zemalja zapošljavate radnike?",
-        "ans": "Po uzoru na modele razvijenih zemalja Bliskog Istoka, Recruitment4u se specijalizovao za uvoz radne snage iz Nepala, Filipina i Indije."
+        "ans": "Po uzoru na modele razvijenih zemalja Bliskog Istoka, Quorzrecruitment se specijalizovao za uvoz radne snage iz Nepala, Filipina i Indije."
       },
       "faq2": {
         "qus": "Koliko traje proces zapošljavanja stranih radnika?",
@@ -366,7 +366,7 @@
     },
     "article2": {
       "title": "Način da uštedite vreme i novac",
-      "pera": "recruitment4U preuzima sve administrativne, pravne i finansijske obaveze, štedeći vreme vama i vašim zaposlenima."
+      "pera": "Quorzrecruitment preuzima sve administrativne, pravne i finansijske obaveze, štedeći vreme vama i vašim zaposlenima."
     },
     "article3": {
       "title": "Ogromna baza kandidata",
@@ -1245,13 +1245,13 @@
 
   "contactus": {
     "text": "KONTAKT",
-    "title": "Recruitment4u je tu za vas i sva vaša pitanja — i za kompanije i za tražioce posla.",
+    "title": "Quorzrecruitment je tu za vas i sva vaša pitanja — i za kompanije i za tražioce posla.",
     "btnText": "Kancelarije",
     "letscontact": "Hajde da se povežemo"
   },
   "footer": {
     "title": "O Nama",
-    "desc": "Recruitment4u je registrovan za aktivnosti posredovanja pri zapošljavanju i privremenom zapošljavanju radnika.",
+    "desc": "Quorzrecruitment je registrovan za aktivnosti posredovanja pri zapošljavanju i privremenom zapošljavanju radnika.",
     "title2": "Naše Globalno Prisustvo",
     "location1": {
       "title": "Rumunija",
@@ -1265,6 +1265,6 @@
       "title": "Katar",
       "desc": "Global Business Center, Corniche Road, Doha, Katar"
     },
-    "copyright": "Autorska prava © 2025 Recruitment4u. Sva prava zadržana."
+    "copyright": "Autorska prava © 2025 Quorzrecruitment. Sva prava zadržana."
   }
 }

@@ -56,7 +56,7 @@
     "title": "Metode moderne pentru restaurarea gloriei anterioare a afacerii agenției",
     "accordionItems1": {
       "accordiontitle": "Găsiți cei mai buni candidați.",
-      "contentdec": "Recruitment4u este specializată în a ajuta companiile să se elibereze de limitările geografice inutile – astfel încât să puteți angaja cea mai bună persoană din lume, nu doar cea mai bună din apropiere."
+      "contentdec": "Quorzrecruitment este specializată în a ajuta companiile să se elibereze de limitările geografice inutile – astfel încât să puteți angaja cea mai bună persoană din lume, nu doar cea mai bună din apropiere."
     },
     "accordionItems2": {
       "accordiontitle": "Automatizați procesele de afaceri.",
@@ -182,19 +182,19 @@
     },
     "service2": {
       "title": "SUDARE ȘI PRELUCRARE METAL",
-      "desc": "Recruitment4u este singura agenție din UK care efectuează independent testări în țările de origine și partajează rezultatele cu partenerii interesați. Ca agenție sau contractor, acoperim toate procesele de sudare și calificările lucrătorilor."
+      "desc": "Quorzrecruitment este singura agenție din UK care efectuează independent testări în țările de origine și partajează rezultatele cu partenerii interesați. Ca agenție sau contractor, acoperim toate procesele de sudare și calificările lucrătorilor."
     },
     "service3": {
-      "title": "Recruitment4u AGRO",
-      "desc": "Recruitment4u Agro este un proiect orientat spre satisfacerea nevoilor sectorului primar al economiei. Recrutăm muncitori pentru agricultori locali în agricultură, zootehnie și industria alimentară."
+      "title": "Quorzrecruitment AGRO",
+      "desc": "Quorzrecruitment Agro este un proiect orientat spre satisfacerea nevoilor sectorului primar al economiei. Recrutăm muncitori pentru agricultori locali în agricultură, zootehnie și industria alimentară."
     },
     "service4": {
       "title": "PROGRAM OSPITALITATE",
       "desc": "Programul de ospitalitate este un sistem special organizat pentru recrutarea și selecția personalului care lucrează în servicii și turism. Conectăm hotelierii cu muncitori în colaborare cu numeroase asociații de ospitalitate."
     },
     "service5": {
-      "title": "Recruitment4u CONSTRUCT",
-      "desc": "Construcțiile sunt un sector cu cea mai mare cerere de lucrători străini, dar reprezintă și cea mai mare provocare în găsirea forței de muncă adecvate. Recruitment4u Construct este un proiect destinat identificării unei forțe de muncă calificate pentru acest sector."
+      "title": "Quorzrecruitment CONSTRUCT",
+      "desc": "Construcțiile sunt un sector cu cea mai mare cerere de lucrători străini, dar reprezintă și cea mai mare provocare în găsirea forței de muncă adecvate. Quorzrecruitment Construct este un proiect destinat identificării unei forțe de muncă calificate pentru acest sector."
     },
     "service6": {
       "title": "RECRUTARE PERSONALIZATĂ",
@@ -204,7 +204,7 @@
       "title": "Întrebări frecvente",
       "faq1": {
         "qus": "Din ce țări angajați muncitori?",
-        "ans": "Urmând modelele folosite în țările dezvoltate din Orientul Mijlociu, Recruitment4u este specializată în importul muncitorilor din Nepal, Filipine și India."
+        "ans": "Urmând modelele folosite în țările dezvoltate din Orientul Mijlociu, Quorzrecruitment este specializată în importul muncitorilor din Nepal, Filipine și India."
       },
       "faq2": {
         "qus": "Cât durează procesul de angajare a muncitorilor străini?",
@@ -364,7 +364,7 @@
     },
     "article2": {
       "title": "O modalitate de a economisi timp și bani",
-      "pera": "recruitment4U preia toate sarcinile administrative, legale și financiare, economisind timp pentru dvs. și angajații dvs."
+      "pera": "Quorzrecruitment preia toate sarcinile administrative, legale și financiare, economisind timp pentru dvs. și angajații dvs."
     },
     "article3": {
       "title": "Bază de date vastă cu candidați",
@@ -1242,13 +1242,13 @@
 
   "contactus": {
     "text": "CONTACT",
-    "title": "Recruitment4u este aici pentru tine și pentru toate întrebările tale — atât pentru companii, cât și pentru candidați.",
+    "title": "Quorzrecruitment este aici pentru tine și pentru toate întrebările tale — atât pentru companii, cât și pentru candidați.",
     "btnText": "Birouri",
     "letscontact": "Hai să luăm legătura"
   },
   "footer": {
     "title": "Despre Noi",
-    "desc": "Recruitment4u este înregistrată pentru activități legate de medierea muncii și angajarea temporară a lucrătorilor.",
+    "desc": "Quorzrecruitment este înregistrată pentru activități legate de medierea muncii și angajarea temporară a lucrătorilor.",
     "title2": "Prezența Noastră Globală",
     "location1": {
       "title": "România",
@@ -1262,6 +1262,6 @@
       "title": "Qatar",
       "desc": "Global Business Center, Corniche Road, Doha, Qatar"
     },
-    "copyright": "Copyright © 2025 Recruitment4u. Toate drepturile rezervate."
+    "copyright": "Copyright © 2025 Quorzrecruitment. Toate drepturile rezervate."
   }
 }
