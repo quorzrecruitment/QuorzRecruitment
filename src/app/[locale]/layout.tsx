@@ -35,37 +35,37 @@ export const metadata: Metadata = {
       sizes: "180x180",
     },
   },
-  openGraph: {
-    type: "website",
-    locale: "en_US",
-    url: "/",
-    title: "Quorzrecruitment - Agency for Employment",
-    description: "We connect the right workers with the right employers.",
-    siteName: "Quorzrecruitment",
-    images: [
-      {
-        url: "/logo/Recruitment4u-single2.svg",
-        width: 1920,
-        height: 1080,
-        type: "image/svg+xml",
-        alt: "Consultants Logo",
-      },
-    ],
-  },
-  twitter: {
-    card: "summary_large_image",
-    title: "Quorzrecruitment- Agency for Employment",
-    description: "We connect the right workers with the right employers.",
-    images: [
-      {
-        url: "/logo/Recruitment4u-single2.svg",
-        width: 1920,
-        height: 1080,
-        alt: "Logo",
-        type: "image/svg+xml",
-      },
-    ],
-  },
+  // openGraph: {
+  //   type: "website",
+  //   locale: "en_US",
+  //   url: "/",
+  //   title: "Quorzrecruitment - Agency for Employment",
+  //   description: "We connect the right workers with the right employers.",
+  //   siteName: "Quorzrecruitment",
+  //   images: [
+  //     {
+  //       url: "/logo/Recruitment4u-single2.svg",
+  //       width: 1920,
+  //       height: 1080,
+  //       type: "image/svg+xml",
+  //       alt: "Consultants Logo",
+  //     },
+  //   ],
+  // },
+  // twitter: {
+  //   card: "summary_large_image",
+  //   title: "Quorzrecruitment- Agency for Employment",
+  //   description: "We connect the right workers with the right employers.",
+  //   images: [
+  //     {
+  //       url: "/logo/Recruitment4u-single2.svg",
+  //       width: 1920,
+  //       height: 1080,
+  //       alt: "Logo",
+  //       type: "image/svg+xml",
+  //     },
+  //   ],
+  // },
 };
 
 export default async function RootLayout({
