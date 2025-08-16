@@ -17,7 +17,7 @@ import { useLocale, useTranslations } from "next-intl";
 import logo from "../../../public/logo/Recruitment4u.svg";
 import { Button } from "@/components/ui/button";
 import { VisuallyHidden } from "@/components/ui/visually-hidden";
-import LanguageSwitcher from "@/components/LanguageSwitcher";
+// import LanguageSwitcher from "@/components/LanguageSwitcher";
 import {
   DropdownMenu,
   DropdownMenuContent,
@@ -189,9 +189,9 @@ const Navbar = () => {
           </div>
 
           {/* Desktop CTA & Language Switcher */}
-          <div className="hidden lg:flex items-center gap-4">
+          {/*<div className="hidden lg:flex items-center gap-4">
             <LanguageSwitcher />
-          </div>
+          </div> */}
 
           {/* Mobile Menu - Fixed with proper z-index */}
           <div className="lg:hidden absolute right-0 top-1/2 -translate-y-1/2 z-[60]">
@@ -293,9 +293,9 @@ const Navbar = () => {
                 </div>
 
                 <div className="sticky bottom-0 pb-6 pt-4 bg-primary mt-auto border-t border-white/10">
-                  <div className="flex flex-col gap-3">
+                  {/* <div className="flex flex-col gap-3">
                     <LanguageSwitcher />
-                  </div>
+                  </div> */}
                 </div>
               </SheetContent>
             </Sheet>
