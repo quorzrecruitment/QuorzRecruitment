@@ -1,0 +1,71 @@
+@import "tailwindcss";
+
+@theme {
+  --color-background: #f4f4f2;
+  --color-primary: #dd0525;
+  --color-secondary: #192c33;
+  --font-sans: "Lexend", sans-serif;
+  --font-display: "Epilogue", sans-serif;
+}
+
+@keyframes border-spin {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
+
+.animate-border {
+  background-size: 200% 200%;
+  animation: border-spin 3s linear infinite;
+}
+@keyframes image-spin {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
+
+.animate-image {
+  background: linear-gradient(270deg, #dd0525, #000, #dd0525);
+  background-size: 200% 200%;
+  animation: image-spin 3s linear infinite;
+}
+
+
+
+body {
+  background-color: var(--color-background);
+  font-family: var(--font-sans);
+}
+
+/* @import "tailwindcss";
+
+:root {
+  --background: #ffffff;
+  --primary: #dd0525;
+  --font-lexend: "Lexend", sans-serif;
+  --font-epilogue: "Epilogue", sans-serif;
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-primary: var(--primary);
+  --font-lexend: var(--font-lexend);
+  --font-epilogue: var(--font-epilogue);
+}
+
+body {
+  background: var(--background);
+  color: var(--primary);
+} */
