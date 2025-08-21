@@ -2,6 +2,7 @@
 "use client";
 
 import { FaLinkedinIn, FaFacebookF, FaInstagram } from "react-icons/fa";
+import Image from "next/image";
 
 export default function Footer() {
   return (
@@ -17,7 +18,7 @@ export default function Footer() {
           </p>
 
           <div className="mt-6">
-            <img src="/bni-logo.png" alt="BNI Select" className="h-16" />
+            <Image src="/Recruitment4u.svg" alt="BNI Select" className="h-16" />
           </div>
 
           {/* Social icons */}

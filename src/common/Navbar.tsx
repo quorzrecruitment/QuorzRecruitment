@@ -37,7 +37,13 @@ export default function Navbar() {
       <div className="container mx-auto flex items-center justify-between py-3 px-4">
         {/* Logo */}
         <Link href="/" className="flex items-center gap-2">
-          <Image src="/logo.png" alt="AuJob" width={140} height={40} priority />
+          <Image
+            src="/Recruitment4u.svg"
+            alt="AuJob"
+            width={140}
+            height={40}
+            priority
+          />
         </Link>
 
         {/* Desktop Menu */}
