@@ -94,10 +94,10 @@ export default function Footer() {
         <p>
           Recruitment agency by{" "}
           <a href="#" className="hover:underline text-white">
-            Xyz Recruitment
+            Quorz Recruitment
           </a>
         </p>
-        <p>Copyright © 2025 Xyz Recruitment</p>
+        <p>Copyright © 2025 Quorz Recruitment</p>
         {/* <div className="flex gap-4 justify-center md:justify-end mt-4 md:mt-0">
           <a href="#" className="hover:underline">
             Privacy Policy

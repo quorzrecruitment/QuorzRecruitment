@@ -5,8 +5,10 @@ import Link from "next/link";
 import { motion } from "framer-motion";
 import { HiMenu, HiX } from "react-icons/hi";
 import { usePathname } from "next/navigation"; // ✅ import
+import ModeForm from "./ModeForm";
 
 export default function Navbar() {
+  const [isOpen, setIsOpen] = useState(false);
   const [isScrolled, setIsScrolled] = useState(false);
   const [isMenuOpen, setIsMenuOpen] = useState(false);
   const pathname = usePathname(); // ✅ get current route
@@ -63,11 +65,12 @@ export default function Navbar() {
         </nav>
 
         {/* Call Button */}
-        <a
-          href="tel:+421902933101"
+        <button
+          onClick={() => setIsOpen(!isOpen)}
           className="hidden md:inline-block bg-red-600 text-white font-bold px-5 py-2 rounded-full hover:bg-red-700">
-          +421 902 933 101
-        </a>
+          Contact Us
+        </button>
+        <ModeForm isOpen={isOpen} setIsOpen={setIsOpen} />
 
         {/* Mobile Menu Button */}
         <button
