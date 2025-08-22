@@ -21,7 +21,7 @@ export default function page() {
       <WorkRecrui />
       <SuccessSection
         title="Why Recruiting Is Essential to Business Success"
-        description="Recruitment lays the foundation for a productive and motivated workforce. At XYZ Recruitment, we recognise that the right hiring decisions significantly influence employee morale, efficiency, and company culture. This is why we adapt every recruitment process to meet the specific needs of each employer we work with."
+        description="Recruitment lays the foundation for a productive and motivated workforce. At Quorz Recruitment, we recognise that the right hiring decisions significantly influence employee morale, efficiency, and company culture. This is why we adapt every recruitment process to meet the specific needs of each employer we work with."
         image="/images/employee2.png"
         imageAlt="Bob"
       />

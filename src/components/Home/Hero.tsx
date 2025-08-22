@@ -34,8 +34,8 @@ export default function Hero() {
               <p className="text-[14px] text-secondary text-normal font-sans mt-4">
                 A unique professional whose expertise and value are rare in the
                 marketplace like finding a needle in a haystack. When others
-                struggle to locate such talent, <strong>XYZ Recruitment</strong>{" "}
-                delivers.
+                struggle to locate such talent,{" "}
+                <strong>Quorz Recruitment</strong> delivers.
               </p>
               <button className="text-primary font-semibold font-sans mt-4">
                 <IoArrowDownCircleOutline className="text-6xl" />

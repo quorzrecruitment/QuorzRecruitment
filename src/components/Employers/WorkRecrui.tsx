@@ -11,7 +11,7 @@ export default function WorkRecrui() {
                 Recruiting
               </span>
               <h2 className="text-[52px] font-medium font-sans mt-4 text-secondary">
-                How Recruiting Works at XYZ Recruitment
+                How Recruiting Works at Quorz Recruitment
               </h2>
               <p className="text-[14px] text-secondary text-normal font-sans mt-4">
                 Our recruitment specialists follow a comprehensive process to

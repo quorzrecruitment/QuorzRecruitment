@@ -12,16 +12,16 @@ export default function Headhunting() {
                 Headhunting
               </span>
               <h2 className="text-[52px] font-medium font-sans mt-4 text-secondary">
-                How Headhunting Works at XYZ Recruitment
+                How Headhunting Works at Quorz Recruitment
               </h2>
               <p className="text-[14px] text-secondary text-normal font-sans mt-4">
-                At <strong>XYZ Recruitment</strong>, our headhunters specialise
-                in sourcing high-calibre professionals currently employed in
-                other organisations. These individuals often possess the precise
-                skills and experience your business requires. Our approach
-                involves identifying, approaching, and engaging them with
-                tailored opportunities that align with their career ambitions
-                and your company’s needs.
+                At <strong>Quorz Recruitment</strong>, our headhunters
+                specialise in sourcing high-calibre professionals currently
+                employed in other organisations. These individuals often possess
+                the precise skills and experience your business requires. Our
+                approach involves identifying, approaching, and engaging them
+                with tailored opportunities that align with their career
+                ambitions and your company’s needs.
               </p>
             </div>
           </div>

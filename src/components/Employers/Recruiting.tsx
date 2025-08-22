@@ -14,13 +14,13 @@ export default function Recruiting() {
                 How does recruiting work at Recruitment job
               </h2>
               <p className="text-[14px] text-secondary text-normal font-sans mt-4">
-                Our recruiters at aujob use the latest methods and tools to
-                identify and reach potential candidates. The process includes
-                advertising job openings, processing CVs, arranging interviews
-                and selecting the most suitable candidates for specific
-                positions. We also perform thorough reference checks and ensure
-                that each candidate meets your company&apos;s required standards
-                and values.
+                Our recruiters at Quorz Recruitment use the latest methods and
+                tools to identify and reach potential candidates. The process
+                includes advertising job openings, processing CVs, arranging
+                interviews and selecting the most suitable candidates for
+                specific positions. We also perform thorough reference checks
+                and ensure that each candidate meets your company&apos;s
+                required standards and values.
               </p>
             </div>
           </div>

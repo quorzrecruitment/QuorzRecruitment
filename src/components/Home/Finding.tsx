@@ -18,7 +18,7 @@ export default function Finding() {
               vacancies.
             </h5>
             <p className="text-[14px] text-secondary text-normal font-sans mt-4">
-              At <strong>XYZ Recruitment</strong>, we are committed to the
+              At <strong>Quorz Recruitment</strong>, we are committed to the
               success of every employer and every professional we serve. We know
               that each client and candidate is unique, and we treat every
               engagement with precision, dedication, and integrity.

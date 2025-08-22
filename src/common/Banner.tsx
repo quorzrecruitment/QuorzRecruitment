@@ -29,8 +29,9 @@ export default function Banner() {
               </h5>
               <p className="text-[17px] text-secondary text-normal font-sans mt-4">
                 In addition to standard hiring solutions,{" "}
-                <strong>XYZ Recruitment</strong> offers specialised recruitment
-                support tailored to businesses with unique workforce needs.
+                <strong>Quorz Recruitment</strong> offers specialised
+                recruitment support tailored to businesses with unique workforce
+                needs.
               </p>
               <div className="grid grid-cols-1 md:grid-cols-2 gap-6 mt-4">
                 <div>

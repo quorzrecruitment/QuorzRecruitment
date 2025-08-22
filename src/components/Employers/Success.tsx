@@ -28,7 +28,7 @@ export default function Success() {
               In today’s competitive labour market, attracting and retaining top
               performers is vital. Many of the most talented professionals are
               not actively seeking new roles. Through our headhunting services,
-              <strong>XYZ Recruitment</strong> enables you to reach beyond
+              <strong>Quorz Recruitment</strong> enables you to reach beyond
               traditional channels and connect directly with this exceptional
               talent pool.
             </p>

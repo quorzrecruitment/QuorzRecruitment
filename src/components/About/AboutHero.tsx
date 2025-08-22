@@ -12,7 +12,7 @@ export default function AboutHero() {
             10 Years of Recruitment Expertise
           </h1>
           <p className="text-[16px] font-sans text-[#192c33] mt-4">
-            For two decades, <strong>XYZ Recruitment</strong> has been at the
+            For two decades, <strong>Quorz Recruitment</strong> has been at the
             forefront of the recruitment and headhunting industry. We specialise
             in filling challenging positions across diverse sectors, often
             requiring unique skill sets and language combinations. By combining
