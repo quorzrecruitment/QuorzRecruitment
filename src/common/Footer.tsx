@@ -28,7 +28,7 @@ export default function Footer() {
           </div>
 
           {/* Social icons */}
-          <div className="flex space-x-3 mt-6">
+          {/* <div className="flex space-x-3 mt-6">
             <a
               href="#"
               className="p-2 border border-white hover:bg-white hover:text-black transition rounded">
@@ -44,7 +44,7 @@ export default function Footer() {
               className="p-2 border border-white hover:bg-white hover:text-black transition rounded">
               <FaInstagram />
             </a>
-          </div>
+          </div> */}
         </div>
 
         {/* Middle Section */}
