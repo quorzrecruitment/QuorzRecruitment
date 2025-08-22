@@ -7,7 +7,7 @@ import Image from "next/image";
 export default function Footer() {
   return (
     <footer className="bg-[#0f2529] text-white py-12">
-      <div className="container max-w-7xl mx-auto px-6 grid grid-cols-1 md:grid-cols-3 gap-10">
+      <div className="container  mx-auto px-6 grid grid-cols-1 md:grid-cols-4 gap-10">
         {/* Left Section */}
         <div>
           <h2 className="text-2xl font-bold">
@@ -48,14 +48,16 @@ export default function Footer() {
         </div>
 
         {/* Middle Section */}
-        <div>
+        <div className="">
           <h3 className="text-lg font-bold mb-3">Contact us</h3>
           <p className="flex items-center gap-2 mb-2">
-            {/* 📞 <span>+421 902 933 101</span> */}
+            📞 <span>+40 784 805 998</span>
           </p>
           <p className="flex items-center gap-2">
             📧{" "}
-            <a href="mailto:client@aujobs.sk" className="hover:underline">
+            <a
+              href="mailto:quorz.recruitment@gmail.com"
+              className="hover:underline">
               quorz.recruitment@gmail.com
             </a>
           </p>
@@ -86,6 +88,46 @@ export default function Footer() {
               </a>
             </li>
           </ul>
+        </div>
+        {/* Middle Section */}
+        <div className="space-y-5">
+          <h3 className="text-lg font-bold mb-3">Office</h3>
+          <div className="space-y-3">
+            <h4 className="text-[20px]">Romania</h4>
+            <p className="flex items-center gap-2">
+              <a
+                href="https://www.google.com/maps/search/Str.+Sg.+Constantin+Moise+5+D+BUCURESTI,+Loc.+SECTORUL+6/@44.4294868,26.0369059,17z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI1MDQwMi4xIKXMDSoASAFQAw%3D%3D"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="text-[12px] hover:text-primary">
+                Str. Sg. Constantin Moise 5 D, SECTORUL 6, BUCHAREST
+              </a>
+            </p>
+          </div>
+          <div className="space-y-3">
+            <h4 className="text-[20px]">UAE [Dubai]</h4>
+            <p className="flex items-center gap-2">
+              <a
+                href="https://www.google.com/maps/place/The+One+Tower/@25.101272,55.1712551,17z/data=!3m2!4b1!5s0x3e5f6823542b71c7:0x8e9faf5dcfac2cda!4m6!3m5!1s0x3e5f6b717800ddc9:0x80e8763d2c32aea7!8m2!3d25.1012672!4d55.17383!16s%2Fm%2F043sbt6?entry=ttu&g_ep=EgoyMDI1MDQwMi4xIKXMDSoASAFQAw%3D%3D"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="text-[12px] hover:text-primary">
+                The One Tower, Fl.24, DUBAI, UAE
+              </a>
+            </p>
+          </div>
+          <div className="space-y-3">
+            <h4 className="text-[20px]">Dhaka</h4>
+            <p className="flex items-center gap-2">
+              <a
+                href="https://www.google.com/maps/search/Road+Number+12,+Sector+:+6+,+Uttara+,Dhaka+-1230+Bangladesh/@23.8673376,90.3876689,16z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI1MDgxOS4wIKXMDSoASAFQAw%3D%3D"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="text-[12px] hover:text-primary">
+                Road Number 12, Sector : 6 , Uttara ,Dhaka -1230 Bangladesh
+              </a>
+            </p>
+          </div>
         </div>
       </div>
 

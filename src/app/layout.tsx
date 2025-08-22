@@ -14,8 +14,8 @@ const epilogue = Epilogue({
 });
 
 export const metadata = {
-  title: "My New Project",
-  description: "Using Lexend & Epilogue fonts",
+  title: "Quorz Recruitment",
+  description: "Quorz Recruitment",
 };
 
 export default function RootLayout({
