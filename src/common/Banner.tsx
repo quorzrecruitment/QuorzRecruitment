@@ -19,7 +19,7 @@ export default function Banner() {
           <div className="col-span-5">
             <div className="flex flex-col justify-center items-start">
               <h2 className="text-[52px] font-bold font-sans mt-4 text-secondary">
-                Xyz Company
+                Quorz Recruitment Company
               </h2>
               <span className="text-[24px] text-primary font-normal font-sans">
                 Fleet service
