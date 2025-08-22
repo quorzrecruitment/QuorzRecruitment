@@ -11,14 +11,20 @@ export default function Footer() {
         {/* Left Section */}
         <div>
           <h2 className="text-2xl font-bold">
-            AuJob <span className="text-red-500">®</span>
+            Quorz Recruitment <span className="text-red-500">®</span>
           </h2>
           <p className="text-sm text-red-400 mt-2">
             We find exceptional talent for your company
           </p>
 
           <div className="mt-6">
-            <Image src="/Recruitment4u.svg" alt="BNI Select" className="h-16" />
+            <Image
+              src="/Recruitment4u.svg"
+              alt="Quorz Recruitment"
+              width={150}
+              height={150}
+              className="h-16"
+            />
           </div>
 
           {/* Social icons */}
@@ -45,12 +51,12 @@ export default function Footer() {
         <div>
           <h3 className="text-lg font-bold mb-3">Contact us</h3>
           <p className="flex items-center gap-2 mb-2">
-            📞 <span>+421 902 933 101</span>
+            {/* 📞 <span>+421 902 933 101</span> */}
           </p>
           <p className="flex items-center gap-2">
             📧{" "}
             <a href="mailto:client@aujobs.sk" className="hover:underline">
-              client@aujob.sk
+              quorz.recruitment@gmail.com
             </a>
           </p>
         </div>

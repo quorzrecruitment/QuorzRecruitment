@@ -27,7 +27,7 @@ export default function Finding() {
 
           <div className="col-span-1 flex lg:flex-row flex-col md:flex-col justify-center space-x-10">
             <Image
-              src="/images/find1.png"
+              src="/Recruitment4u.svg"
               alt="Finding"
               width={300}
               height={300}
