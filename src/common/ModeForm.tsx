@@ -26,7 +26,7 @@ export default function ModeForm({ isOpen, setIsOpen }: ModeFormProps) {
                 Are you interested in our services? Fill out the short form and
                 we will contact you soon. Or call us:
               </p>
-              <p className="text-primary font-bold mt-3">+421 902 933 101</p>
+              <p className="text-primary font-bold mt-3">+40 784 805 998 </p>
             </div>
 
             {/* Form */}
