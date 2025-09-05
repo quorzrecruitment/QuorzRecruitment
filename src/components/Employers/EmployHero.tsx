@@ -1,5 +1,6 @@
 import React from "react";
 import Image from "next/image";
+import Link from "next/link";
 export default function EmployHero() {
   return (
     <section className="py-20 bg-secondary">
@@ -33,9 +34,11 @@ export default function EmployHero() {
                 </p>
               </div>
             </div>
-            <button className="text-[20px] cursor-pointer font-bold font-sans text-white bg-primary px-10 py-3 w-full  hover:bg-secondary duration-300">
-              More Information
-            </button>
+            <Link href="/about">
+              <button className="text-[20px] cursor-pointer font-bold font-sans text-white bg-primary px-10 py-3 w-full  hover:bg-secondary duration-300">
+                More Information
+              </button>
+            </Link>
           </div>
           <div>
             <div className="bg-white px-2  pb-10">
@@ -58,9 +61,11 @@ export default function EmployHero() {
                 </p>
               </div>
             </div>
-            <button className="text-[20px] cursor-pointer font-bold font-sans text-white bg-primary px-10 py-3 w-full  hover:bg-secondary duration-300">
-              More Information
-            </button>
+            <Link href="/about">
+              <button className="text-[20px] cursor-pointer font-bold font-sans text-white bg-primary px-10 py-3 w-full  hover:bg-secondary duration-300">
+                More Information
+              </button>
+            </Link>
           </div>
         </div>
       </div>

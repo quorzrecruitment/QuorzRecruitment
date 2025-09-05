@@ -1,7 +1,6 @@
 // components/Footer.tsx
 "use client";
 
-import { FaLinkedinIn, FaFacebookF, FaInstagram } from "react-icons/fa";
 import Image from "next/image";
 
 export default function Footer() {
