@@ -62,15 +62,15 @@ export default function Navbar() {
               {item.label}
             </Link>
           ))}
+          <ModeForm isOpen={isOpen} setIsOpen={setIsOpen} />
+          <button
+            onClick={() => setIsOpen(!isOpen)}
+            className="hidden md:inline-block bg-red-600 text-white font-bold px-5 py-2 rounded-full hover:bg-red-700">
+            Contact Us
+          </button>
         </nav>
 
         {/* Call Button */}
-        <button
-          onClick={() => setIsOpen(!isOpen)}
-          className="hidden md:inline-block bg-red-600 text-white font-bold px-5 py-2 rounded-full hover:bg-red-700">
-          Contact Us
-        </button>
-        <ModeForm isOpen={isOpen} setIsOpen={setIsOpen} />
 
         {/* Mobile Menu Button */}
         <button

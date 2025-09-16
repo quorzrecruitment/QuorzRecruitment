@@ -16,12 +16,12 @@ export default function Service() {
                 SERVICES FOR APPLICANTS
               </span>
               <h2 className="text-[52px] font-bold font-sans mt-4 text-secondary leading-snug">
-                How to stand outin today’s <br /> job market.
+                Standing Out in Today’s <br /> Job Market
               </h2>
               <p className="text-[14px] text-secondary text-normal font-sans mt-4 max-w-md">
-                If you are pursuing a new opportunity, we will help you present
-                yourself with confidence and clarity, maximising your chances of
-                securing your ideal role.
+                Looking for your next big opportunity? We help you showcase your
+                skills with confidence and clarity, increasing your chances of
+                landing the role you’ve been aiming for.
               </p>
             </div>
             <Link href="/applicants">
@@ -52,11 +52,11 @@ export default function Service() {
                   <TiMessages size={20} />
                 </div>
                 <h3 className="text-lg font-semibold text-secondary">
-                  Interview Preparation
+                  Interview Coaching
                 </h3>
                 <p className="text-sm text-gray-600 mt-2">
-                  We equip you with interview techniques, conduct mock
-                  interviews, and build your confidence.
+                  Practical training, proven techniques, and mock interviews to
+                  boost your confidence and performance.
                 </p>
               </div>
 
@@ -66,11 +66,11 @@ export default function Service() {
                   <FaPen size={18} />
                 </div>
                 <h3 className="text-lg font-semibold text-secondary">
-                  CV & LinkedIn Profile Enhancement
+                  CV & LinkedIn Optimization
                 </h3>
                 <p className="text-sm text-gray-600 mt-2">
-                  We refine your CV and LinkedIn profile to make a strong first
-                  impression.
+                  We polish your CV and LinkedIn profile so you stand out from
+                  the crowd and make a lasting first impression.
                 </p>
               </div>
 
@@ -80,11 +80,11 @@ export default function Service() {
                   <FaCalendarAlt size={18} />
                 </div>
                 <h3 className="text-lg font-semibold text-secondary">
-                  Labour Market Analysis
+                  Career & Market Insights
                 </h3>
                 <p className="text-sm text-gray-600 mt-2">
-                  We analyse your career opportunities across industries and
-                  regions, identifying the most suitable positions.
+                  Detailed analysis of industry trends and job opportunities
+                  across regions to match you with the right role.
                 </p>
               </div>
 
@@ -94,11 +94,11 @@ export default function Service() {
                   <FaQuestionCircle size={18} />
                 </div>
                 <h3 className="text-lg font-semibold text-secondary">
-                  Personality Assessments
+                  Personality & Strengths Assessment
                 </h3>
                 <p className="text-sm text-gray-600 mt-2">
-                  We provide assessments that help both you and potential
-                  employers understand your strengths and optimal fit.
+                  Tailored evaluations that highlight your unique strengths and
+                  help employers see your true potential.
                 </p>
               </div>
             </div>
@@ -108,7 +108,7 @@ export default function Service() {
           <div className="grid grid-cols-1 md:grid-cols-2 sm:grid-cols-1 lg:grid-cols-4 gap-4 p-10">
             <div>
               <h2 className="text-[40px] font-bold font-sans text-white">
-                10,000+
+                8,000+
               </h2>
               <p className="text-[16px] font-bold font-sans text-white">
                 interviews conducted
@@ -116,7 +116,7 @@ export default function Service() {
             </div>
             <div>
               <h2 className="text-[40px] font-bold font-sans text-white">
-                2,000+
+                1200+
               </h2>
               <p className="text-[16px] font-bold font-sans text-white">
                 verified CVs
@@ -124,7 +124,7 @@ export default function Service() {
             </div>
             <div>
               <h2 className="text-[40px] font-bold font-sans text-white">
-                220+
+                170+
               </h2>
               <p className="text-[16px] font-bold font-sans text-white">
                 satisfied employers
@@ -132,7 +132,7 @@ export default function Service() {
             </div>
             <div>
               <h2 className="text-[40px] font-bold font-sans text-white">
-                77+
+                50+
               </h2>
               <p className="text-[16px] font-bold font-sans text-white">
                 professional articles published

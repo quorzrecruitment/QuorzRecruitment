@@ -5,12 +5,13 @@ export default function EmployHero() {
   return (
     <section className="py-20 bg-secondary">
       <div className="container mx-auto  px-4">
-        <div className="mt-12">
+        <div className="mt-16">
           <span className="text-2xl font-bold text-primary ">
-            COMPREHENSIVE HR SERVICES
+            HOLISTIC HR SUPPORT
           </span>
           <h1 className="lg:text-[48px] md:text-3xl sm:text-2xl font-sans max-w-2xl mt-4 font-bold text-white ">
-            Tailored recruitment and headhunting solutions for employers.
+            Specialized hiring and headhunting strategies tailored to your
+            business needs.
           </h1>
         </div>
         <div className="grid grid-cols-1 md:grid-cols-2 gap-12 mt-12">
@@ -25,10 +26,10 @@ export default function EmployHero() {
               />
               <div className="px-10 py-5">
                 <h2 className="text-[30px] text-secondary font-bold font-sans">
-                  Headhunting
+                  Executive Search
                 </h2>
                 <p className="text-secondary text-[14px] font-normal font-sans">
-                  Headhunting is more than filling vacancies; it is the
+                  Executive Search is more than filling vacancies; it is the
                   strategic art of identifying and attracting top talent who can
                   deliver a measurable competitive advantage to your business.
                 </p>
@@ -51,13 +52,14 @@ export default function EmployHero() {
               />
               <div className="px-10 py-5">
                 <h2 className="text-[30px] text-secondary font-bold font-sans">
-                  Recruiting
+                  Talent Acquisition
                 </h2>
                 <p className="text-secondary text-[14px] font-normal font-sans">
-                  A structured and thorough process of sourcing, attracting, and
-                  securing employees for diverse roles across your organisation.
-                  Our recruiters employ modern tools, market insights, and
-                  proven methods to connect you with the right candidates.
+                  We deliver a streamlined, strategic approach to sourcing,
+                  engaging, and hiring top talent for every level of your
+                  organization. By combining advanced tools, market
+                  intelligence, and industry expertise, our recruiters ensure
+                  you secure candidates who align with your business goals.
                 </p>
               </div>
             </div>

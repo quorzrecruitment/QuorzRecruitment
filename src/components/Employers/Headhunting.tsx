@@ -9,19 +9,20 @@ export default function Headhunting() {
           <div>
             <div className="flex flex-col justify-center items-start">
               <span className="text-[17px] text-primary font-normal font-sans">
-                Headhunting
+                Executive Search
               </span>
               <h2 className="text-[52px] font-medium font-sans mt-4 text-secondary">
-                How Headhunting Works at Quorz Recruitment
+                Executive Search at Quorz Recruitment
               </h2>
               <p className="text-[14px] text-secondary text-normal font-sans mt-4">
-                At <strong>Quorz Recruitment</strong>, our headhunters
-                specialise in sourcing high-calibre professionals currently
-                employed in other organisations. These individuals often possess
-                the precise skills and experience your business requires. Our
-                approach involves identifying, approaching, and engaging them
-                with tailored opportunities that align with their career
-                ambitions and your company’s needs.
+                <strong>Quorz Recruitment</strong>’s executive search service
+                focuses on connecting businesses with exceptional leaders who
+                may not be actively seeking new roles but possess the skills and
+                expertise to drive success. Using a discreet, strategic
+                approach, our headhunters identify and engage high-calibre
+                professionals, presenting them with tailored opportunities that
+                align with their career goals and your company’s long-term
+                vision.
               </p>
             </div>
           </div>

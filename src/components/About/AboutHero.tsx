@@ -4,7 +4,7 @@ export default function AboutHero() {
   return (
     <section className="py-20 bg-[#F4F4F2]">
       <div className="container mx-auto max-w-7xl px-4">
-        <div className="max-w-2xl  flex flex-col ">
+        <div className="max-w-2xl  flex flex-col mt-12">
           <span className="text-[16px] font-sans font-bold text-primary mb-4">
             ABOUT US
           </span>
@@ -12,12 +12,17 @@ export default function AboutHero() {
             10 Years of Recruitment Expertise
           </h1>
           <p className="text-[16px] font-sans text-[#192c33] mt-4">
-            For two decades, <strong>Quorz Recruitment</strong> has been at the
-            forefront of the recruitment and headhunting industry. We specialise
-            in filling challenging positions across diverse sectors, often
-            requiring unique skill sets and language combinations. By combining
-            proven expertise with AI-driven tools and modern technologies, we
-            deliver faster, more precise candidate searches and direct outreach.
+            For the past 10 years,<strong> Quorz Recruitment</strong> has built
+            a strong reputation in Executive Search and Talent Acquisition,
+            helping businesses secure top talent for complex and hard-to-fill
+            roles across multiple industries. From rare skill sets to unique
+            language expertise, our approach blends deep recruitment knowledge
+            with AI-driven tools and modern technology to deliver precise
+            candidate searches and targeted outreach. More than a recruitment
+            firm, we operate with flexibility online, maintain an active
+            presence at professional networking events, and, through strategic
+            partnerships, extend added value with services in education and
+            personal development.
           </p>
           <p className="text-[16px] font-sans text-[#192c33] mt-4">
             Our work goes beyond recruitment; we operate flexibly online,

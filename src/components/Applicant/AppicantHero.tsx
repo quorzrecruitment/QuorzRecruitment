@@ -4,7 +4,7 @@ export default function AppicantHero() {
   return (
     <section className="py-20 bg-secondary">
       <div className="container mx-auto  px-4">
-        <div className="mt-12">
+        <div className="mt-16">
           <span className="text-2xl font-bold text-primary ">
             Services for Candidates
           </span>
@@ -27,11 +27,12 @@ export default function AppicantHero() {
                   Consultations
                 </h2>
                 <p className="text-secondary text-[14px] font-normal font-sans">
-                  Our candidate consultations are designed to help you present
-                  yourself confidently and professionally. With guidance from
-                  experienced consultants, you will improve your interview
-                  skills, strengthen your personal brand, and increase your
-                  chances of securing the right role.
+                  Through tailored candidate consultations, we equip you with
+                  the tools to present yourself with confidence and
+                  professionalism. Our experienced consultants provide practical
+                  guidance to sharpen your interview techniques, enhance your
+                  personal brand, and boost your chances of securing the role
+                  that best matches your skills and ambitions.
                 </p>
               </div>
             </div>
@@ -50,10 +51,12 @@ export default function AppicantHero() {
                   Personality Assessments
                 </h2>
                 <p className="text-secondary text-[14px] font-normal font-sans">
-                  We provide personality assessments that help you and potential
-                  employers better understand your strengths, motivations, and
-                  ideal work style. These insights allow for better job
-                  alignment and stronger career development.
+                  Our personality assessments offer clear insights into your
+                  strengths, motivations, and preferred work style, helping both
+                  you and potential employers achieve a deeper understanding of
+                  your professional fit. These evaluations not only support
+                  better job alignment but also create a stronger foundation for
+                  long-term career growth and development.
                 </p>
               </div>
             </div>

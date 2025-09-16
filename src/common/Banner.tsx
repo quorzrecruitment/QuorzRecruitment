@@ -31,7 +31,7 @@ export default function Banner() {
                 In addition to standard hiring solutions,{" "}
                 <strong>Quorz Recruitment</strong> offers specialised
                 recruitment support tailored to businesses with unique workforce
-                needs.
+                needs.  
               </p>
               <div className="grid grid-cols-1 md:grid-cols-2 gap-6 mt-4">
                 <div>
@@ -79,7 +79,7 @@ export default function Banner() {
                 href="/about"
                 className="text-[20px] font-bold font-sans text-white bg-primary px-10 py-3 rounded-4xl mt-16 hover:bg-secondary duration-300">
                 {" "}
-                More about the car service
+                More about the service
               </Link>
             </div>
           </div>

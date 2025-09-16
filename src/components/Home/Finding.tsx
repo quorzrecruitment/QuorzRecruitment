@@ -7,33 +7,36 @@ export default function Finding() {
         <div className="grid grid-cols-1 md:grid-cols-2 gap-4 justify-between items-center">
           <div className="col-span-1 w-full">
             <span className="text-[17px] text-primary font-normal font-sans">
-              NOT JUST A STAFFING AGENCY
+              BEYOND STAFFING, WE BUILD PARTNERSHIPS
             </span>
             <h2 className="text-[52px] font-bold font-sans mt-4 text-secondary">
               Finding the right person is both an art and a science.
             </h2>
             <h5 className="text-[20px] font-bold font-sans mt-4">
-              Every organisation is built by its people, and those people
-              determine its success. That is why our work goes beyond filling
-              vacancies.
+              People are the heart of every organization, and their impact
+              defines success. That’s why at Quorz Recruitment, we don’t just
+              fill roles, we help you find the right people who drive growth and
+              lasting results.
             </h5>
             <p className="text-[14px] text-secondary text-normal font-sans mt-4">
-              At <strong>Quorz Recruitment</strong>, we are committed to the
-              success of every employer and every professional we serve. We know
-              that each client and candidate is unique, and we treat every
-              engagement with precision, dedication, and integrity.
+              <strong>Quorz Recruitment</strong> is committed to the success of
+              every employer and professional we serve. We understand that each
+              client and candidate is unique, and we handle every engagement
+              with precision, dedication, and integrity.
             </p>
           </div>
 
-          <div className="col-span-1 flex lg:flex-row flex-col md:flex-col justify-center space-x-10">
-            <Image
-              src="/Recruitment4u.svg"
-              alt="Finding"
-              width={300}
-              height={300}
-              priority
-              className="rounded-full object-cover"
-            />
+          <div className="col-span-1 flex lg:flex-row flex-col md:flex-col justify-center items-center space-x-10">
+            <div className="w-[350px]">
+              <Image
+                src="/Recruitment4u.svg"
+                alt="Finding"
+                width={300}
+                height={300}
+                priority
+                className="rounded-full object-cover"
+              />
+            </div>
 
             <div className="flex flex-col space-y-10">
               {/* First animated border image */}

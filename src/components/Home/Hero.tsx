@@ -28,14 +28,17 @@ export default function Hero() {
                 RECRUITING & HEADHUNTING
               </span>
               <h2 className="text-[52px] font-bold font-sans mt-4 text-secondary">
-                We find exceptional talent for your company.
+                {" "}
+                Exceptional Talent, Made Simple
               </h2>
 
               <p className="text-[14px] text-secondary text-normal font-sans mt-4">
-                A unique professional whose expertise and value are rare in the
-                marketplace like finding a needle in a haystack. When others
-                struggle to locate such talent,{" "}
-                <strong>Quorz Recruitment</strong> delivers.
+                Great people aren’t easy to find, especially the rare
+                professionals whose skills bring real value to a company. That’s
+                where Quorz Recruitment comes in. We take the stress out of
+                hiring by connecting you with standout talent that others
+                struggle to reach, ensuring your business gets the expertise it
+                deserves.
               </p>
               <button className="text-primary font-semibold font-sans mt-4">
                 <IoArrowDownCircleOutline className="text-6xl" />
@@ -58,20 +61,20 @@ export default function Hero() {
       <AnimatePresence>
         {isOpen && (
           <motion.div
-            className="fixed inset-0 bg-black/70 flex items-center justify-center z-50"
+            className="fixed  inset-0 bg-black/70 flex items-center justify-center z-50"
             initial={{ opacity: 0 }}
             animate={{ opacity: 1 }}
             exit={{ opacity: 0 }}>
             {/* Modal Content */}
             <motion.div
-              className="bg-black rounded-lg overflow-hidden w-[100%] max-w-7xl relative"
+              className="bg-black   rounded-lg overflow-hidden w-[100%] max-w-7xl relative"
               initial={{ scale: 0.8 }}
               animate={{ scale: 1 }}
               exit={{ scale: 0.8 }}>
               {/* Close Button */}
               <button
                 onClick={() => setIsOpen(false)}
-                className="absolute top-3 right-3 text-white text-2xl z-10">
+                className="absolute cursor-pointer top-3 right-3 text-white text-2xl z-10">
                 ✕
               </button>
 
@@ -80,8 +83,8 @@ export default function Hero() {
                 <iframe
                   width="100%"
                   height="100%"
-                  src="https://www.youtube.com/embed/YOUR_VIDEO_ID?autoplay=1"
-                  title="YouTube video player"
+                  src="https://res.cloudinary.com/dykdbtzsn/video/upload/v1757939022/Quorz_new_h0gi1k.mp4"
+                  title="video player"
                   frameBorder="0"
                   allow="autoplay; encrypted-media"
                   allowFullScreen></iframe>

@@ -27,7 +27,7 @@ export default function employers() {
             </div>
             <div className="absolute flex flex-col justify-center items-center bottom-0 left-0 p-5 z-10 w-48 h-48 bg-primary">
               <h2 className="text-[40px] font-bold font-sans text-white">
-                20 +
+                10 +
               </h2>
               <p className="text-[16px] font-bold font-sans text-white">
                 Years of Experience
@@ -52,12 +52,13 @@ export default function employers() {
                 </span>
                 <div className="max-w-[400px] ml-4">
                   <h5 className="text-[20px] font-bold font-sans">
-                    Headhunting
+                    Executive Search
                   </h5>
                   <p className="text-[14px] text-secondary text-normal font-sans mt-4">
-                    This is more than candidate sourcing; it is the strategic
-                    art of identifying and engaging high-calibre professionals
-                    who can deliver measurable value and competitive advantage.
+                    More than just sourcing candidates, executive search is the
+                    strategic craft of identifying and engaging high-calibre
+                    professionals who bring measurable impact and a true
+                    competitive edge to your business.
                   </p>
                 </div>
               </div>
@@ -67,13 +68,15 @@ export default function employers() {
                 </span>
                 <div className="max-w-[400px] ml-4">
                   <h5 className="text-[20px] font-bold font-sans">
-                    Recruiting
+                    Talent Acquisition
                   </h5>
                   <p className="text-[14px] text-secondary text-normal font-sans mt-4">
-                    A structured process of sourcing, attracting, and selecting
-                    candidates for diverse roles within your organisation. Our
-                    recruiters use modern tools, targeted outreach, and
-                    data-driven strategies to connect you with the right people.
+                    Talent acquisition is a structured process designed to
+                    source, attract, and select the right people for diverse
+                    roles within your organization. At Quorz Recruitment, we
+                    combine modern tools, targeted outreach, and data-driven
+                    strategies to ensure you connect with talent that fits both
+                    the role and your company culture.
                   </p>
                 </div>
               </div>

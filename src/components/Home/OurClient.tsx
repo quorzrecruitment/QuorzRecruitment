@@ -16,12 +16,12 @@ export default function OurClient() {
             CASE STUDIES & CLIENT REFERENCES
           </span>
           <h2 className="text-[52px] font-bold font-sans mt-4 text-secondary leading-snug">
-            How we’ve delivered results for <br /> our clients
+            How we’ve delivered results for <br /> our clients:
           </h2>
 
           <div className="bg-white w-full text-start p-10 max-w-5xl rounded-lg shadow-sm lg:mt-20 md:mt-10 sm:mt-5 mt-5">
             <h1 className="text-2xl font-bold text-gray-800 mb-4">
-              Headhunting
+              Executive Search{" "}
             </h1>
 
             <div className="flex items-start mb-4">
@@ -29,14 +29,14 @@ export default function OurClient() {
             </div>
             <div className="space-y-4 text-gray-700">
               <p className="text-heading text-sm font-bold">
-                A global company urgently needed to fill a specialised role.
-                Their previous agency had failed to find suitable candidates.
-                After a thorough consultation, we identified that certain
-                technical requirements were unnecessarily restrictive. By
-                refining the criteria and leveraging our talent database, we
-                successfully filled the role within two weeks presenting three
-                shortlisted candidates, two of whom were an excellent technical
-                and cultural fit.
+                A global organization urgently needed to fill a highly
+                specialized role after their previous agency failed to deliver.
+                During our consultation, we discovered that overly strict
+                technical requirements were limiting the candidate pool. By
+                refining the criteria and tapping into our extensive talent
+                network, we provided three shortlisted candidates within two
+                weeks two of whom proved to be an exceptional technical and
+                cultural fit.
               </p>
               {/* 
               <p>
@@ -56,7 +56,7 @@ export default function OurClient() {
           </div>
           <div className="bg-white w-full text-start p-10 max-w-5xl rounded-lg shadow-sm lg:mt-20 md:mt-10 sm:mt-5 mt-5">
             <h1 className="text-2xl font-bold text-gray-800 mb-4">
-              Recruiting
+              Talent Acquisition
             </h1>
 
             <div className="flex items-start mb-4">
@@ -64,13 +64,14 @@ export default function OurClient() {
             </div>
             <div className="space-y-4 text-gray-700">
               <p className="text-heading text-sm font-bold">
-                A company required a proactive sales representative with strong
-                industry connections. While the role seemed ideal for
-                headhunting, we also deployed a broad recruitment strategy
-                combining targeted advertising, marketing campaigns, social
-                media outreach, and database searches. Within two weeks, we
-                secured a candidate with the right personality profile and
-                professional background to excel in the role.
+                A company was searching for a proactive sales representative
+                with strong industry connections. While the role initially
+                seemed ideal for executive search, we implemented a broader
+                recruitment strategy combining targeted ads, marketing
+                campaigns, social media outreach, and database searches. Within
+                two weeks, we secured a candidate with the right mix of
+                personality, experience, and industry network to thrive in the
+                role.
               </p>
 
               {/* <p>

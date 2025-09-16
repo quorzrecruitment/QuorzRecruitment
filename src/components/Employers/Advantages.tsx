@@ -6,7 +6,7 @@ export default function Advantages() {
     <section className="py-20 bg-[#F4F4F2]">
       <div className="container mx-auto max-w-6xl px-4">
         <h2 className="lg:text-[48px]  text-secondary md:text-4xl font-bold text-center mb-16">
-          Advantages of Quorz Recruitment Headhunting
+          Advantages of Quorz Recruitment Executive Search
         </h2>
 
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
@@ -18,12 +18,12 @@ export default function Advantages() {
               </div>
             </div>
             <h3 className="lg:text-[21px] md:text-2xl font-display font-medium mb-4">
-              Access to passive candidates
+              Access to Passive Talent
             </h3>
             <p className="text-gray-600 text-[14px] font-sans">
-              We help you engage with professionals who are not actively
-              applying for jobs, giving you the chance to hire rare and
-              exceptional talent.
+              Engage with professionals who aren’t actively job hunting, giving
+              your business the advantage of securing rare and exceptional
+              candidates.
             </p>
           </div>
 
@@ -35,12 +35,12 @@ export default function Advantages() {
               </div>
             </div>
             <h3 className="lg:text-[21px] md:text-2xl font-display font-medium mb-4">
-              Industry-specific expertise
+              Specialised Industry Knowledge
             </h3>
             <p className="text-gray-600 text-[14px] font-sans">
-              Our headhunters focus on defined industries and functional areas,
-              ensuring a deeper understanding of your requirements and more
-              precise candidate matches.
+              Our headhunters operate within defined industries and functions,
+              providing deeper insight into your needs and delivering more
+              accurate candidate matches.
             </p>
           </div>
 
@@ -52,12 +52,12 @@ export default function Advantages() {
               </div>
             </div>
             <h3 className="lg:text-[21px] md:text-2xl font-display font-medium mb-4">
-              Time and resource efficiency
+              Efficient & Discreet Process
             </h3>
             <p className="text-gray-600 text-[14px] font-sans">
-              Outsourcing to our experts saves you valuable time and internal
-              resources, while ensuring a professional and discreet search
-              process.
+              By outsourcing to our experts, you save valuable time and
+              resources while benefiting from a professional, streamlined, and
+              confidential search.
             </p>
           </div>
         </div>
